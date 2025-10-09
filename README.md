@@ -1,5 +1,3 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.goodcore.co.uk%2Fblog%2Fwhat-is-coding%2F&psig=AOvVaw1Jns-9ghbRx62aVPQpAkrC&ust=1760100495205000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMjEiL6Tl5ADFQAAAAAdAAAAABAE)
-
 <h1 align="center">Hi 👋, I'm Beril Bölükbaşı</h1>
 <h3 align="center">A software engineering senior student</h3>
 
