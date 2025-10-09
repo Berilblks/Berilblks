@@ -19,5 +19,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berilblks&" alt="berilblks" /></p>
 
 
-
-![snake gif](https://github.com/Berilblks/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
