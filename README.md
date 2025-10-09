@@ -3,8 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/beril-bölükbaşı-bb6155233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beril-bölükbaşı-bb6155233" height="30" width="40" /></a>
-<a href="https://instagram.com/beril_bls2310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="beril_bls2310" height="30" width="40" /></a>  
+<a href="https://linkedin.com/in/beril-bölükbaşı-bb6155233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beril-bölükbaşı-bb6155233" height="30" width="40" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
